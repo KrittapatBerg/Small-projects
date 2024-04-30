@@ -1,0 +1,16 @@
+C:\Users\Krittapat\source\repos\KB.SkapaEnVektor\KB.SkapaEnVektor\bin\Debug\KB.SkapaEnVektor.exe.config
+C:\Users\Krittapat\source\repos\KB.SkapaEnVektor\KB.SkapaEnVektor\bin\Debug\KB.SkapaEnVektor.exe
+C:\Users\Krittapat\source\repos\KB.SkapaEnVektor\KB.SkapaEnVektor\bin\Debug\KB.SkapaEnVektor.pdb
+C:\Users\Krittapat\source\repos\KB.SkapaEnVektor\KB.SkapaEnVektor\obj\Debug\KB.SkapaEnVektor.csproj.AssemblyReference.cache
+C:\Users\Krittapat\source\repos\KB.SkapaEnVektor\KB.SkapaEnVektor\obj\Debug\KB.SkapaEnVektor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Krittapat\source\repos\KB.SkapaEnVektor\KB.SkapaEnVektor\obj\Debug\KB.SkapaEnVektor.csproj.CoreCompileInputs.cache
+C:\Users\Krittapat\source\repos\KB.SkapaEnVektor\KB.SkapaEnVektor\obj\Debug\KB.SkapaEnVektor.exe
+C:\Users\Krittapat\source\repos\KB.SkapaEnVektor\KB.SkapaEnVektor\obj\Debug\KB.SkapaEnVektor.pdb
+C:\Users\Krittapat\source\repos\KB.uppdrag3_SkapaEnVektor\KB.SkapaEnVektor\bin\Debug\KB.SkapaEnVektor.exe.config
+C:\Users\Krittapat\source\repos\KB.uppdrag3_SkapaEnVektor\KB.SkapaEnVektor\bin\Debug\KB.SkapaEnVektor.exe
+C:\Users\Krittapat\source\repos\KB.uppdrag3_SkapaEnVektor\KB.SkapaEnVektor\bin\Debug\KB.SkapaEnVektor.pdb
+C:\Users\Krittapat\source\repos\KB.uppdrag3_SkapaEnVektor\KB.SkapaEnVektor\obj\Debug\KB.SkapaEnVektor.csproj.AssemblyReference.cache
+C:\Users\Krittapat\source\repos\KB.uppdrag3_SkapaEnVektor\KB.SkapaEnVektor\obj\Debug\KB.SkapaEnVektor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Krittapat\source\repos\KB.uppdrag3_SkapaEnVektor\KB.SkapaEnVektor\obj\Debug\KB.SkapaEnVektor.csproj.CoreCompileInputs.cache
+C:\Users\Krittapat\source\repos\KB.uppdrag3_SkapaEnVektor\KB.SkapaEnVektor\obj\Debug\KB.SkapaEnVektor.exe
+C:\Users\Krittapat\source\repos\KB.uppdrag3_SkapaEnVektor\KB.SkapaEnVektor\obj\Debug\KB.SkapaEnVektor.pdb

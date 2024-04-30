@@ -1,0 +1,8 @@
+C:\Users\Krittapat\source\repos\KB.uppdrag3_FyllVektorn\KB.uppdrag3_FyllVektorn\obj\Debug\KB.uppdrag3_FyllVektorn.csproj.AssemblyReference.cache
+C:\Users\Krittapat\source\repos\KB.uppdrag3_FyllVektorn\KB.uppdrag3_FyllVektorn\obj\Debug\KB.uppdrag3_FyllVektorn.csproj.SuggestedBindingRedirects.cache
+C:\Users\Krittapat\source\repos\KB.uppdrag3_FyllVektorn\KB.uppdrag3_FyllVektorn\obj\Debug\KB.uppdrag3_FyllVektorn.csproj.CoreCompileInputs.cache
+C:\Users\Krittapat\source\repos\KB.uppdrag3_FyllVektorn\KB.uppdrag3_FyllVektorn\bin\Debug\KB.uppdrag3_FyllVektorn.exe.config
+C:\Users\Krittapat\source\repos\KB.uppdrag3_FyllVektorn\KB.uppdrag3_FyllVektorn\bin\Debug\KB.uppdrag3_FyllVektorn.exe
+C:\Users\Krittapat\source\repos\KB.uppdrag3_FyllVektorn\KB.uppdrag3_FyllVektorn\bin\Debug\KB.uppdrag3_FyllVektorn.pdb
+C:\Users\Krittapat\source\repos\KB.uppdrag3_FyllVektorn\KB.uppdrag3_FyllVektorn\obj\Debug\KB.uppdrag3_FyllVektorn.exe
+C:\Users\Krittapat\source\repos\KB.uppdrag3_FyllVektorn\KB.uppdrag3_FyllVektorn\obj\Debug\KB.uppdrag3_FyllVektorn.pdb

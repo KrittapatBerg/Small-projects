@@ -1,0 +1,8 @@
+C:\Users\Krittapat\source\repos\KB.uppdrag3_skrivUtOchJamfor\KB.uppdrag3_skrivUtOchJamfor\bin\Debug\KB.uppdrag3_skrivUtOchJamfor.exe.config
+C:\Users\Krittapat\source\repos\KB.uppdrag3_skrivUtOchJamfor\KB.uppdrag3_skrivUtOchJamfor\bin\Debug\KB.uppdrag3_skrivUtOchJamfor.exe
+C:\Users\Krittapat\source\repos\KB.uppdrag3_skrivUtOchJamfor\KB.uppdrag3_skrivUtOchJamfor\bin\Debug\KB.uppdrag3_skrivUtOchJamfor.pdb
+C:\Users\Krittapat\source\repos\KB.uppdrag3_skrivUtOchJamfor\KB.uppdrag3_skrivUtOchJamfor\obj\Debug\KB.uppdrag3_skrivUtOchJamfor.csproj.AssemblyReference.cache
+C:\Users\Krittapat\source\repos\KB.uppdrag3_skrivUtOchJamfor\KB.uppdrag3_skrivUtOchJamfor\obj\Debug\KB.uppdrag3_skrivUtOchJamfor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Krittapat\source\repos\KB.uppdrag3_skrivUtOchJamfor\KB.uppdrag3_skrivUtOchJamfor\obj\Debug\KB.uppdrag3_skrivUtOchJamfor.csproj.CoreCompileInputs.cache
+C:\Users\Krittapat\source\repos\KB.uppdrag3_skrivUtOchJamfor\KB.uppdrag3_skrivUtOchJamfor\obj\Debug\KB.uppdrag3_skrivUtOchJamfor.exe
+C:\Users\Krittapat\source\repos\KB.uppdrag3_skrivUtOchJamfor\KB.uppdrag3_skrivUtOchJamfor\obj\Debug\KB.uppdrag3_skrivUtOchJamfor.pdb

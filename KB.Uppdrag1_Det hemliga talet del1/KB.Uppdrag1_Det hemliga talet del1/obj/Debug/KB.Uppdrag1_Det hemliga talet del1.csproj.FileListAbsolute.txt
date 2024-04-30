@@ -1,0 +1,8 @@
+C:\Users\Krittapat\source\repos\KB.Uppdrag1_Det hemliga talet del1\KB.Uppdrag1_Det hemliga talet del1\bin\Debug\KB.Uppdrag1_Det hemliga talet del1.exe.config
+C:\Users\Krittapat\source\repos\KB.Uppdrag1_Det hemliga talet del1\KB.Uppdrag1_Det hemliga talet del1\bin\Debug\KB.Uppdrag1_Det hemliga talet del1.exe
+C:\Users\Krittapat\source\repos\KB.Uppdrag1_Det hemliga talet del1\KB.Uppdrag1_Det hemliga talet del1\bin\Debug\KB.Uppdrag1_Det hemliga talet del1.pdb
+C:\Users\Krittapat\source\repos\KB.Uppdrag1_Det hemliga talet del1\KB.Uppdrag1_Det hemliga talet del1\obj\Debug\KB.Uppdrag1_Det hemliga talet del1.csproj.AssemblyReference.cache
+C:\Users\Krittapat\source\repos\KB.Uppdrag1_Det hemliga talet del1\KB.Uppdrag1_Det hemliga talet del1\obj\Debug\KB.Uppdrag1_Det hemliga talet del1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Krittapat\source\repos\KB.Uppdrag1_Det hemliga talet del1\KB.Uppdrag1_Det hemliga talet del1\obj\Debug\KB.Uppdrag1_Det hemliga talet del1.csproj.CoreCompileInputs.cache
+C:\Users\Krittapat\source\repos\KB.Uppdrag1_Det hemliga talet del1\KB.Uppdrag1_Det hemliga talet del1\obj\Debug\KB.Uppdrag1_Det hemliga talet del1.exe
+C:\Users\Krittapat\source\repos\KB.Uppdrag1_Det hemliga talet del1\KB.Uppdrag1_Det hemliga talet del1\obj\Debug\KB.Uppdrag1_Det hemliga talet del1.pdb

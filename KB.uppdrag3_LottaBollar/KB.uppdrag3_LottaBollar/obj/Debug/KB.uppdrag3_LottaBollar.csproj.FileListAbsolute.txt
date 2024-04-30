@@ -1,0 +1,8 @@
+C:\Users\Krittapat\source\repos\KB.uppdrag3_LottaBollar\KB.uppdrag3_LottaBollar\bin\Debug\KB.uppdrag3_LottaBollar.exe.config
+C:\Users\Krittapat\source\repos\KB.uppdrag3_LottaBollar\KB.uppdrag3_LottaBollar\bin\Debug\KB.uppdrag3_LottaBollar.exe
+C:\Users\Krittapat\source\repos\KB.uppdrag3_LottaBollar\KB.uppdrag3_LottaBollar\bin\Debug\KB.uppdrag3_LottaBollar.pdb
+C:\Users\Krittapat\source\repos\KB.uppdrag3_LottaBollar\KB.uppdrag3_LottaBollar\obj\Debug\KB.uppdrag3_LottaBollar.csproj.AssemblyReference.cache
+C:\Users\Krittapat\source\repos\KB.uppdrag3_LottaBollar\KB.uppdrag3_LottaBollar\obj\Debug\KB.uppdrag3_LottaBollar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Krittapat\source\repos\KB.uppdrag3_LottaBollar\KB.uppdrag3_LottaBollar\obj\Debug\KB.uppdrag3_LottaBollar.csproj.CoreCompileInputs.cache
+C:\Users\Krittapat\source\repos\KB.uppdrag3_LottaBollar\KB.uppdrag3_LottaBollar\obj\Debug\KB.uppdrag3_LottaBollar.exe
+C:\Users\Krittapat\source\repos\KB.uppdrag3_LottaBollar\KB.uppdrag3_LottaBollar\obj\Debug\KB.uppdrag3_LottaBollar.pdb

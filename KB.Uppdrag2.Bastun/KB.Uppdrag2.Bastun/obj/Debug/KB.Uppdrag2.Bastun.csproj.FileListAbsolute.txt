@@ -1,0 +1,8 @@
+C:\Users\Krittapat\source\repos\KB.Uppdrag2.Bastun\KB.Uppdrag2.Bastun\obj\Debug\KB.Uppdrag2.Bastun.csproj.AssemblyReference.cache
+C:\Users\Krittapat\source\repos\KB.Uppdrag2.Bastun\KB.Uppdrag2.Bastun\obj\Debug\KB.Uppdrag2.Bastun.csproj.SuggestedBindingRedirects.cache
+C:\Users\Krittapat\source\repos\KB.Uppdrag2.Bastun\KB.Uppdrag2.Bastun\obj\Debug\KB.Uppdrag2.Bastun.csproj.CoreCompileInputs.cache
+C:\Users\Krittapat\source\repos\KB.Uppdrag2.Bastun\KB.Uppdrag2.Bastun\bin\Debug\KB.Uppdrag2.Bastun.exe.config
+C:\Users\Krittapat\source\repos\KB.Uppdrag2.Bastun\KB.Uppdrag2.Bastun\bin\Debug\KB.Uppdrag2.Bastun.exe
+C:\Users\Krittapat\source\repos\KB.Uppdrag2.Bastun\KB.Uppdrag2.Bastun\bin\Debug\KB.Uppdrag2.Bastun.pdb
+C:\Users\Krittapat\source\repos\KB.Uppdrag2.Bastun\KB.Uppdrag2.Bastun\obj\Debug\KB.Uppdrag2.Bastun.exe
+C:\Users\Krittapat\source\repos\KB.Uppdrag2.Bastun\KB.Uppdrag2.Bastun\obj\Debug\KB.Uppdrag2.Bastun.pdb

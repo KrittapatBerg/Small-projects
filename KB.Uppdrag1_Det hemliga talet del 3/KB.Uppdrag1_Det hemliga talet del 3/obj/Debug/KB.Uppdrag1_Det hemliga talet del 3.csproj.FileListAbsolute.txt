@@ -1,0 +1,8 @@
+C:\Users\Krittapat\source\repos\KB.Uppdrag1_Det hemliga talet del 3\KB.Uppdrag1_Det hemliga talet del 3\bin\Debug\KB.Uppdrag1_Det hemliga talet del 3.exe.config
+C:\Users\Krittapat\source\repos\KB.Uppdrag1_Det hemliga talet del 3\KB.Uppdrag1_Det hemliga talet del 3\bin\Debug\KB.Uppdrag1_Det hemliga talet del 3.exe
+C:\Users\Krittapat\source\repos\KB.Uppdrag1_Det hemliga talet del 3\KB.Uppdrag1_Det hemliga talet del 3\bin\Debug\KB.Uppdrag1_Det hemliga talet del 3.pdb
+C:\Users\Krittapat\source\repos\KB.Uppdrag1_Det hemliga talet del 3\KB.Uppdrag1_Det hemliga talet del 3\obj\Debug\KB.Uppdrag1_Det hemliga talet del 3.csproj.AssemblyReference.cache
+C:\Users\Krittapat\source\repos\KB.Uppdrag1_Det hemliga talet del 3\KB.Uppdrag1_Det hemliga talet del 3\obj\Debug\KB.Uppdrag1_Det hemliga talet del 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Krittapat\source\repos\KB.Uppdrag1_Det hemliga talet del 3\KB.Uppdrag1_Det hemliga talet del 3\obj\Debug\KB.Uppdrag1_Det hemliga talet del 3.csproj.CoreCompileInputs.cache
+C:\Users\Krittapat\source\repos\KB.Uppdrag1_Det hemliga talet del 3\KB.Uppdrag1_Det hemliga talet del 3\obj\Debug\KB.Uppdrag1_Det hemliga talet del 3.exe
+C:\Users\Krittapat\source\repos\KB.Uppdrag1_Det hemliga talet del 3\KB.Uppdrag1_Det hemliga talet del 3\obj\Debug\KB.Uppdrag1_Det hemliga talet del 3.pdb
